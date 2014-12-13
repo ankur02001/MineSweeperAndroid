@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <color name="grey">#6456648f</color>
+    <color name="white">#ffffff</color>
+    <color name="red">#ffe6f0ff</color>
+   <!-- <color name="game_board">#6456648f</color> -->
+    <color name="game_board">#66666666</color>
+
+    <color name="background">#3500ffff</color>
+    <color name="puzzle_background">#ffe6f0ff</color>
+    <color name="puzzle_hilite">#ffffffff</color>
+    <color name="puzzle_light">#64c6d4ef</color>
+    <color name="puzzle_dark">#6456648f</color>
+    <color name="puzzle_foreground">#ff000000</color>
+</resources>

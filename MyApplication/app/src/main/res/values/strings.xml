@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mine Sweeper</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="newGameButton">New Game</string>
+    <string name="exitGame">Exit Game</string>
+    <string name="new_Game_label">Mine Sweeper</string>
+    <string name="game_alert_win"> Game Over!! You Win</string>
+    <string name="gameAlertLabel">gameAlertLabel</string>
+    <string name="game_alert">game_alert</string>
+
+</resources>
